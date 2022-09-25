@@ -1,4 +1,4 @@
- Hi, I'm Darrius! <br/><a href="https://github.com/darrius251">Programmer</a>, 
+ Hi, I'm Darrius! <br/><a href="https://github.com/darrius251">Programmer, Cybersecurity Analyst </a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -19,7 +19,7 @@
 
 
 [youtube]: https://www.youtube.com/c/joshmadakor
-[linkedin]: (https://www.linkedin.com/in/darrius-rubin/)/
+[linkedin]: https://www.linkedin.com/in/darrius-rubin/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
