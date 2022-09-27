@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Homelab</b>
+- <b> Linux </b>
   
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - Linux Putty [(Client-Server Model)](https://github.com/joshmadakor1/EncrypterPOC)
 
 <h2>📺 Certifications </h2>
 
@@ -17,11 +17,10 @@
 
 
 
-[youtube]: https://www.youtube.com/c/joshmadakor
+[Blog]: TBA 
 [linkedin]: https://www.linkedin.com/in/darrius-rubin/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
