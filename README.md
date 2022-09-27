@@ -4,7 +4,7 @@
 
 - <b> Linux </b>
   
-  - Linux Putty [(Client-Server Model)](Link coming soon)
+  - Linux Putty (Client-Server Model)(Link coming soon)
 
 <h2>📺 Certifications </h2>
 
