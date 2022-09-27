@@ -8,7 +8,7 @@
 
 <h2>📺 Certifications </h2>
 
-- 
+- TBA
 
 <h2> 🤳 Connect with me:</h2>
 
